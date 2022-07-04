@@ -1,2 +1,3 @@
-# Credit-Card-Theft-Recognition
+# Credit-Card-Anomaly-Recognition
 Machine Learning Project
+In most cases, credit card fraud occurs when the card is stolen and used for any unauthorised activity, or even when the fraudster utilises the card's information for his own profit. We have a lot of credit card issues in the modern world. The credit card anomaly Recognition technology was introduced to identify fraudulent actions. The primary focus of this project is to use machine learning algorithms and recognise Anamolies. Logistic Regression, KNN algorithm, naive bayes, and decision tree algorithm are the algorithms used; decision tree algorithm shown good accuracy in comparison to other algorithms.
